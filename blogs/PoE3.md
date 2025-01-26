@@ -1,9 +1,11 @@
+---
+title: "Purr-suit of Ethereum 🐾 #3"
+date: 2025-01-26
+author: Pooja Ranjan
+image: https://hackmd.io/_uploads/HyG8GJEO1g.png
+---
 
-# Purr-suit of Ethereum 🐾 #3
 #### Your Weekly Dose of Blockchain Updates and Meows!
-
-![Thumbnail 03](https://hackmd.io/_uploads/HyG8GJEO1g.png)
-
 
 In this edition, we bring you key highlights from the Ethereum ecosystem, including updates on the upcoming Pectra (Prague + Electra) upgrade, insights from the latest All Core Devs Consensus Call, and details on recent implementers’ and breakout meetings. For those new to this series, don’t worry—you can catch up with our [previous newsletter here](https://hackmd.io/@poojaranjan/PoE2).
 
