@@ -5,7 +5,7 @@ import matter from "gray-matter";
 import Image from "next/image";
 
 async function getBlogPosts() {
-  const postsDirectory = path.join(process.cwd(), 'blogs');
+  const postsDirectory = path.join(process.cwd(), 'src/blogs');
   const files = await fs.promises.readdir(postsDirectory);
   
   // Filter only .tsx or .mdx files (assuming blog posts are one of these)
