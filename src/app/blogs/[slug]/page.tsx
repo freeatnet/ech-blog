@@ -8,7 +8,7 @@ import Image from 'next/image';
 
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const markdown = fs.readFileSync(path.join('src/blogs', slug + '.md'), 'utf-8')
+  const markdown = fs.readFileSync(path.join('public/blogs', slug + '.md'), 'utf-8')
   const { data: frontmatter, content } = matter(markdown)
   console.log(frontmatter)
 
