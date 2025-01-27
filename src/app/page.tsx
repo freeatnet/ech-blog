@@ -51,7 +51,7 @@ export default async function Home() {
             {posts.slice(0, 4).map((post) => (
               <Link 
                 key={post.slug}
-                href={`/blogs/${post.slug}`}
+                href={`/${post.slug}`}
                 className="block rounded-lg border border-gray-200 dark:border-gray-800 hover:border-gray-300 dark:hover:border-gray-700 transition-colors"
               >
                 {post.image && (
@@ -89,7 +89,7 @@ export default async function Home() {
               {posts.slice(4).map((post) => (
                 <Link 
                   key={post.slug}
-                  href={`/blogs/${post.slug}`}
+                  href={`/${post.slug}`}
                   className="flex rounded-lg border border-gray-200 dark:border-gray-800 hover:border-gray-300 dark:hover:border-gray-700 transition-colors"
                 >
                   {post.image && (
