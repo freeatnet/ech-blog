@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { BsTwitterX, BsGithub, BsYoutube, BsReddit, BsGlobe } from 'react-icons/bs'
+import { BsTwitterX, BsGithub, BsYoutube, BsReddit, BsGlobe, BsLinkedin } from 'react-icons/bs'
 import { Button } from './ui/button'
 
 export function Footer() {
@@ -91,6 +91,14 @@ export function Footer() {
                 rel="noopener noreferrer"
               >
                 <BsReddit className="h-5 w-5" />
+              </Link>
+              <Link 
+                href="https://www.linkedin.com/company/ethcatherders" 
+                className="text-muted-foreground hover:text-primary"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <BsLinkedin className="h-5 w-5" />
               </Link>
             </div>
           </div>
