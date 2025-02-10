@@ -1,6 +1,13 @@
-import Link from 'next/link'
-import { BsTwitterX, BsGithub, BsYoutube, BsReddit, BsGlobe, BsLinkedin } from 'react-icons/bs'
-import { Button } from './ui/button'
+import Link from "next/link";
+import {
+  BsTwitterX,
+  BsGithub,
+  BsYoutube,
+  BsReddit,
+  BsGlobe,
+  BsLinkedin,
+} from "react-icons/bs";
+import { Button } from "./ui/button";
 
 export function Footer() {
   return (
@@ -105,5 +112,5 @@ export function Footer() {
         </div>
       </div>
     </footer>
-  )
-} 
+  );
+}
