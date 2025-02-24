@@ -2,7 +2,7 @@
 title: "Commemorative NFT for EIP Authors of Pectra Upgrade"
 date: 2025-02-24
 author: George Hervey
-image: https://ipfs.io/ipfs/bafybeidju5f5m6dvgmyxgp4bwf7v7w2nflcbvtly522nua7wycl4g4rfqm
+image: https://ipfs.io/ipfs/bafybeicpoeacn5ktx6rll4ezjwnnnimhcjdwkirm44dk4vrbcot3p3mmha
 ---
 
 # Commemorative NFT for EIP Authors of Pectra Upgrade
