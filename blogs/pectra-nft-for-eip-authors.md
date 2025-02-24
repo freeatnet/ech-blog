@@ -40,4 +40,10 @@ To claim your commemorative NFT, simply follow these steps:
 
 This **limited-edition NFT** is a small way to **celebrate your efforts** and **recognize your contributions** to Ethereum.  We deeply appreciate your hard work and look forward to your continued contributions to our community.
 
-Follow the Ethereum Cat Herders on [Website](https://ethcatherders.com), [GitHub](https://github.com/ethcatherders/EIPIP), [Twitter](https://x.com/ethcatherders), [Medium](https://medium.com/ethereum-cat-herders), and [YouTube](https://www.youtube.com/@ethcatherders).
+### 🐱 With Love,  
+**Ethereum Cat Herders**  
+
+📺 Watch A Paw-some Video - [Preparing for Pectra](https://youtu.be/5pMkHeG-lC0)  
+
+🔗 Follow Ethereum Cat Herders on:  
+🌐 [Website](https://www.ethcatherders.com) | 🐙 [GitHub](https://github.com/ethereum-cat-herders) | 🐦 [Twitter](https://twitter.com/EthCatHerders) | ✍️ [Medium](https://medium.com/ethereum-cat-herders) | 📺 [YouTube](https://www.youtube.com/c/EthereumCatHerders)
