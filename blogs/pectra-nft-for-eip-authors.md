@@ -9,6 +9,21 @@ image: https://ipfs.io/ipfs/bafybeidju5f5m6dvgmyxgp4bwf7v7w2nflcbvtly522nua7wycl
 
 We're excited to announce the launch of a special commemorative NFT, designed to express our gratitude to EIP authors who have contributed to the Ethereum ecosystem and have at least one of their EIPs included in the latest upcoming Ethereum network upgrade.
 
+## 📜 Pectra EIPs 
+
+As per [EIP-7600: Hardfork Meta - Pectra](https://eips.ethereum.org/EIPS/eip-7600), the following EIPs are **Scheduled for Inclusion**:
+
+* [EIP-2537](https://eips.ethereum.org/EIPS/eip-2537): Precompile for BLS12-381 curve operations
+* [EIP-2935](https://eips.ethereum.org/EIPS/eip-2935): Save historical block hashes in state
+* [EIP-6110](https://eips.ethereum.org/EIPS/eip-6110): Supply validator deposits on chain
+* [EIP-7002](https://eips.ethereum.org/EIPS/eip-7002): Execution layer triggerable exits
+* [EIP-7251](https://eips.ethereum.org/EIPS/eip-7251): Increase the MAX_EFFECTIVE_BALANCE
+* [EIP-7549](https://eips.ethereum.org/EIPS/eip-7549): Move committee index outside Attestation
+* [EIP-7623](https://eips.ethereum.org/EIPS/eip-7623): Increase calldata cost
+* [EIP-7685](https://eips.ethereum.org/EIPS/eip-7685): General purpose execution layer requests
+* [EIP-7691](https://eips.ethereum.org/EIPS/eip-7691): Blob throughput increase
+* [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702): Set EOA account code
+* [EIP-7840](https://eips.ethereum.org/EIPS/eip-7840): Add blob schedule to EL config files
 If you authored one of the EIPs in the upcoming Pectra upgrade, you're eligible to claim your NFT now on at: 
 
 [https://www.ethcatherders.com/upgrades/pectra](https://www.ethcatherders.com/upgrades/pectra).
