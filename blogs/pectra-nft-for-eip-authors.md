@@ -31,7 +31,6 @@ If you are an **EIP author** of any of the above proposals, **you’re eligible 
 🔗 **[Claim your NFT here](https://www.ethcatherders.com/upgrades/pectra)**
 
 
-[https://www.ethcatherders.com/upgrades/pectra](https://www.ethcatherders.com/upgrades/pectra).
 
 To claim your commemorative NFT, simply follow these steps:
 
