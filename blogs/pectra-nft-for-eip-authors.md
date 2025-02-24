@@ -24,7 +24,12 @@ As per [EIP-7600: Hardfork Meta - Pectra](https://eips.ethereum.org/EIPS/eip-760
 * [EIP-7691](https://eips.ethereum.org/EIPS/eip-7691): Blob throughput increase
 * [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702): Set EOA account code
 * [EIP-7840](https://eips.ethereum.org/EIPS/eip-7840): Add blob schedule to EL config files
-If you authored one of the EIPs in the upcoming Pectra upgrade, you're eligible to claim your NFT now on at: 
+## 🎁 Claim Your NFT Now!
+
+If you are an **EIP author** of any of the above proposals, **you’re eligible to claim your commemorative NFT** at:
+
+🔗 **[Claim your NFT here](https://www.ethcatherders.com/upgrades/pectra)**
+
 
 [https://www.ethcatherders.com/upgrades/pectra](https://www.ethcatherders.com/upgrades/pectra).
 
