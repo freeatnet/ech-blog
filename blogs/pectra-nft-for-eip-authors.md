@@ -36,7 +36,7 @@ To claim your commemorative NFT, simply follow these steps:
 
 1. **Verify your Github profile**: It must be the same Github username cited in the EIP(s) authored.
 2. **Enter your ENS or wallet address**: The NFT is on Base so ensure you have ownership of that address on that chain. 
-3. **Claim**: The NFT will be airdropped to your wallet. That's it. Gas covered by us.
+3. **Claim**: The **gas fees are covered by us!** Your NFT will be airdropped to your wallet.
 
 This limited-edition NFT is a small token of our appreciation for your efforts. We're grateful for your participation and look forward to seeing your continued contributions to our community.
 
