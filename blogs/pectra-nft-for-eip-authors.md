@@ -38,6 +38,6 @@ To claim your commemorative NFT, simply follow these steps:
 2. **Enter your ENS or wallet address**: The NFT is on Base so ensure you have ownership of that address on that chain. 
 3. **Claim**: The **gas fees are covered by us!** Your NFT will be airdropped to your wallet.
 
-This limited-edition NFT is a small token of our appreciation for your efforts. We're grateful for your participation and look forward to seeing your continued contributions to our community.
+This **limited-edition NFT** is a small way to **celebrate your efforts** and **recognize your contributions** to Ethereum.  We deeply appreciate your hard work and look forward to your continued contributions to our community.
 
 Follow the Ethereum Cat Herders on [Website](https://ethcatherders.com), [GitHub](https://github.com/ethcatherders/EIPIP), [Twitter](https://x.com/ethcatherders), [Medium](https://medium.com/ethereum-cat-herders), and [YouTube](https://www.youtube.com/@ethcatherders).
