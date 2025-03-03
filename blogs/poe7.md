@@ -89,12 +89,16 @@ Welcome to the seventh edition. Catch up on the latest updates since our [last e
 ### EIPsInsight
 - [March 2025](https://eipsinsight.com/insight/2025/3)
 - [February 2025](https://eipsinsight.com/insight/2025/2)
-#### **New EIPs (Ethereum Improvement Proposals)**
 
+#### **New EIPs (Ethereum Improvement Proposals)**
 - [Uncouple execution payload from beacon block](https://github.com/ethereum/EIPs/pull/9432)
 - [Standardized On-Chain Return Type Encoding for Solidity Functions](https://github.com/ethereum/EIPs/pull/9433)
 - [Block-level Warming with fair cost savings](https://github.com/ethereum/EIPs/pull/9428)
 - [ABI attachment in wallet_sendCalls](https://github.com/ethereum/EIPs/pull/9422)
+
+#### Twitter spaces with Stacks Foundation 
+- [EIPs with Pooja Ranjan](https://x.com/StacksOrg/status/1895504413206405380)
+    - [EIP x AI](https://x.com/attractfund1ng/status/1895518539580391861)
 
 ### PEEPanEIP & Ecosystem Project Demo
 #### Released episodes
@@ -129,6 +133,7 @@ Welcome to the seventh edition. Catch up on the latest updates since our [last e
 - [Devconnect 2025](https://devconnect.org/): Expected in Q4-2025. Exact date - TBD. Should you have improvement suggestions, share with the team - [Improving Devconnect 2025](https://forum.devcon.org/t/rpf-9-improving-devconnect-2025/5339) 
 - Follow the [list of upcoming events](https://docs.google.com/spreadsheets/d/1NEu_FCc1hnGAuRgPmbXXpf0h2lCrCOlMKbbFEqgkVDQ/edit?gid=572241033#gid=572241033)  by Nathan Sexer
 
+
 ## Community Resources
 - WiEP - Study Group (Cohort 3) [Week 2](https://youtu.be/avCiQeM1X6s)
 - [**PRIVACY POOLS** TESTNET IS LIVE](https://x.com/0xbowio/status/1895649598083121166)
@@ -136,6 +141,7 @@ Welcome to the seventh edition. Catch up on the latest updates since our [last e
 - [**MetaMask** x Mastercard – spend your crypto, anywhere.](https://x.com/francescoswiss/status/1895243792518914110)
 - [Ethereum adoption timeline](https://x.com/EntEthAlliance/status/1896444034203439371) 
 - [$5M everyone onchain fund](https://x.com/uttam_singhk/status/1896479617625858096)
+
 
 ### Upcoming Research 
 - [Sealed transactions](https://ethresear.ch/t/sealed-transactions/21859)
@@ -145,11 +151,11 @@ Welcome to the seventh edition. Catch up on the latest updates since our [last e
 - [Native Rollups: Promise vs. Reality](https://x.com/scrollresearch/status/1894491254454718526)
 - The Robust Incentives Group [Homepage](https://efdn.notion.site/Robust-Incentives-Group-RIG-Homepage-802339956f2745a5964d8461c5ccef02), [Casper's Tweet thread](https://x.com/casparschwa/status/1894799590135865499)
 
+
+
 ### Share your project updates with us
 To add updates, visit our GitHub repository. If you wish to contact the team, join ECH's Discord. Alternatively, you can email us at team@ethcatherders.com by Friday to be added to the next edition of the newsletter scheduled for release on the following Monday.
 
 Remember to visit our [official website](https://www.ethcatherders.com/), [blogs](https://blog.ethcatherders.com/), [YouTube](https://www.youtube.com/@ethcatherders), [Podcast](https://open.spotify.com/show/7dgxKMkSyy3HWtQW7OfqXA) and follow us on [Twitter](https://x.com/ethcatherders), [LinkedIn](https://www.linkedin.com/company/ethcatherders/) & [Farcaster](https://warpcast.com/ethcatherders) for more updates.
 
 ## Stay Curious, Stay Connected and Keep Purring 🐾
-
-
