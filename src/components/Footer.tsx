@@ -6,6 +6,7 @@ import {
   BsReddit,
   BsGlobe,
   BsLinkedin,
+  BsRss,
 } from "react-icons/bs";
 import { Button } from "./ui/button";
 
@@ -13,6 +14,17 @@ export function Footer() {
   return (
     <footer className="w-full">
       <div className="max-w-4xl mx-auto py-2 px-4 flex justify-end gap-2">
+        <Button variant="outline" className="rounded-full">
+          <Link 
+            href="/feed.xml" 
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2"
+          >
+            <BsRss className="h-4 w-4" />
+            RSS Feed
+          </Link>
+        </Button>
         <Button variant="outline" className="rounded-full">
           <Link 
             href="https://github.com/ethcatherders/ech-blog" 
@@ -106,6 +118,14 @@ export function Footer() {
                 rel="noopener noreferrer"
               >
                 <BsLinkedin className="h-5 w-5" />
+              </Link>
+              <Link 
+                href="/feed.xml" 
+                className="text-muted-foreground hover:text-primary"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <BsRss className="h-5 w-5" />
               </Link>
             </div>
           </div>
