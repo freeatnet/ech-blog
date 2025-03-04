@@ -35,7 +35,7 @@ export class PostNotFoundError extends Error {
 export class FrontmatterValidationError extends Error {
   constructor(
     public slug: string,
-    public error: z.ZodError
+    public override cause: z.ZodError<z.input<typeof frontmatterSchema>>
   ) {
     super(`Invalid frontmatter in post "${slug}"`);
     this.name = "FrontmatterValidationError";
@@ -49,7 +49,7 @@ export class FrontmatterValidationError extends Error {
  * @throws {PostNotFoundError} When the post file doesn't exist
  * @throws {FrontmatterValidationError} When the post's frontmatter is invalid
  */
-function readPostFromFile(filename: string, postsDirectory = POSTS_DIRECTORY) {
+export function readPostFromFile(filename: string, postsDirectory = POSTS_DIRECTORY) {
   const slug = filename.replace(/\.md$/, "");
   const filePath = path.join(postsDirectory, filename);
 
