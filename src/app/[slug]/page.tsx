@@ -1,15 +1,26 @@
-import fs from 'fs'
-import path from 'path';
-import matter from 'gray-matter';
 import { marked } from 'marked';
 import Link from 'next/link';
 import { ArrowLeftIcon } from 'lucide-react';
 import Image from 'next/image';
+import { getPostBySlug, PostNotFoundError } from '@/lib/blog';
+import { notFound } from 'next/navigation';
 
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params
-  const markdown = fs.readFileSync(path.join(process.cwd(), 'blogs', slug + '.md'), 'utf-8')
-  const { data: frontmatter, content } = matter(markdown)
+  const { slug } = await params;
+  let post;
+  
+  try {
+    post = await getPostBySlug(slug);
+  } catch (error) {
+    if (error instanceof PostNotFoundError) {
+      // notFound() throws an error internally, so execution stops here
+      notFound();
+    }
+    throw error;
+  }
+  
+  const { frontmatter, content } = post;
+  const htmlContent = marked(content);
 
   return (
     <div className='flex flex-col min-h-screen'>
@@ -38,7 +49,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             Written by {frontmatter.author} on {frontmatter.date.toLocaleDateString()}
           </p>
           <article className='prose prose-slate max-w-none'>
-            <div dangerouslySetInnerHTML={{ __html: marked(content) }} />
+            <div dangerouslySetInnerHTML={{ __html: htmlContent }} />
           </article>
         </div>
       </div>

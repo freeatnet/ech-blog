@@ -1,0 +1,35 @@
+name: Validate Blog Posts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'blogs/**/*.md'
+      - 'scripts/validate-blog-posts.ts'
+      - 'src/lib/blog.ts'
+      - '.github/workflows/validate-blog-posts.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'blogs/**/*.md'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  validate:
+    name: Validate Blog Posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Validate blog posts
+        run: bun scripts/validate-blog-posts.ts
